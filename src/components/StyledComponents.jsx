@@ -28,4 +28,9 @@ const SButton = styled.button`
   background-color: #46cdcf;
   color: #fff;
   cursor: pointer;
+  &:hover {
+    background-color: #46cdcf;
+    color: #fff;
+    cursor: pointer;
+  }
 `;
